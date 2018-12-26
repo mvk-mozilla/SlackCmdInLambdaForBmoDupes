@@ -6,7 +6,6 @@ from urllib.parse import parse_qs
 
 #https=require('https')
 #qs=require('querystring')
-#ACCESS_TOKEN="xoxp-371351187216-458528570850-506692795473-61ac33eab65f3047ba7681531285bd0a"
 ACCESS_TOKEN=os.environ['BOT_TOKEN']
 BMO_URL="https://bugzilla.mozilla.org/rest/bug/possible_duplicates"
 
