@@ -13,6 +13,6 @@ https://bugzilla.mozilla.org/bug/641593Twitter mosaic not always responsive to c
 ....
 
 
-TO DO- Add all configuration and deployment information
+All configuration and deployment information is contained in this doc and its links:  https://docs.google.com/document/d/16q97opSUGLLjow0nNxuafpChvXE99kqz68CXInCLpq8/edit?usp=sharing
 
 Architecture for this is described in the architecture.pdf
