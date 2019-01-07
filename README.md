@@ -4,7 +4,10 @@ Command is currently available in the Mozilla Slack sandbox under the slash comm
 
 USAGE EXAMPLE:
 In Slack, type:  /bmodupes mosaic
+
+
 Response:
+
 BMODupes APP [1:12 PM]
 https://bugzilla.mozilla.org/bug/29235grphic mosaic applet gets java.lang.NullPointerException
 https://bugzilla.mozilla.org/bug/640436Firefox doesn't respond while flickrmosaic.com Mosaic is loading
